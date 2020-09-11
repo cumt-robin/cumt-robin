@@ -1,6 +1,6 @@
-I'm a software developer, and I spend most of my time in web front-end development.
+I'm a software developer, and I spend most of my time on web front-end development.
 
-- 🌱 I’m currently learning Vue, React, NodeJS, CI/CD, ...
+- 🌱 I’m currently learning Vue, React, NodeJS, Nginx, CI/CD, ...
 - 👯 I’m looking to collaborate on some interesting and practical projects based on Vue or React.
 - 📫 How to reach me: 
 
