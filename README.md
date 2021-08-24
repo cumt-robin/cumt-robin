@@ -1,3 +1,5 @@
+![github stats](https://github-readme-stats.vercel.app/api?username=cumt-robin&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true)
+
 I'm a software engineer, and I spend most of my time on web front-end development.
 
 - 🌱 I’m currently learning Vue, React, NodeJS, Nginx, CI/CD, ...
