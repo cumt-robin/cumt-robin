@@ -4,6 +4,7 @@ I'm a software engineer, and I spend most of my time on web front-end developmen
 
 - 🌱 I’m currently learning Vue, React, NodeJS, Nginx, CI/CD, ...
 - 👯 I’m looking to collaborate on some interesting and practical projects based on Vue or React.
+- 👀 I've been focusing on [JView UI](https://jview-design.github.io/jview-doc/) lately.
 - 📫 How to reach me: 
 
   - [掘金社区](https://juejin.im/user/2752832847753085/posts)
