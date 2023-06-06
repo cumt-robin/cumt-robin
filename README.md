@@ -8,7 +8,7 @@ I'm a software engineer, and I spend most of my time on web front-end developmen
 - 📫 How to reach me: 
 
   - [掘金社区](https://juejin.im/user/2752832847753085/posts)
-  - [公众号【前端司南】](http://qncdn.wbjiang.cn/%E5%89%8D%E7%AB%AF%E5%8F%B8%E5%8D%97%E5%90%8D%E7%89%87%E5%B8%A6%E5%BE%AE%E4%BF%A1.png)
-  - [个人微信](http://qncdn.wbjiang.cn/%E4%B8%AA%E4%BA%BA%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
+  - [公众号【bin不懂二进制】](https://qncdn.wbjiang.cn/%E5%85%AC%E4%BC%97%E5%8F%B7/qrcode_bin.jpg)
+  - [个人微信](https://qncdn.wbjiang.cn/%E5%85%AC%E4%BC%97%E5%8F%B7/qrcode_bin.jpg)
   - [个人博客](https://blog.wbjiang.cn/)
   - [自建ChatGPT，国内可用](http://chat.wbjiang.cn/)
