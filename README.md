@@ -2,7 +2,7 @@
 
 I'm a software engineer, and I spend most of my time on web front-end development.
 
-- 🌱 I’m currently learning Vue, React, NodeJS, Nginx, CI/CD, ...
+- 🌱 I’m currently learning Vue, React, NodeJS, NestJS, Nginx, CI/CD, ...
 - 👯 I’m looking to collaborate on some interesting and practical projects based on Vue or React.
 - 👀 I've been focusing on [JView UI](https://jview.wbjiang.cn/) lately.
 - 📫 How to reach me: 
